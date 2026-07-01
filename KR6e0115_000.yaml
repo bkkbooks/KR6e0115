@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6e0115/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 文殊指南圖讚
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T45/T45n1891.xml
+    old_id: T45n1891
+hash: sha256:dbf8476904bb79843f55b66328b128a7b1200dcd4590bbf48a12f607679faceb
