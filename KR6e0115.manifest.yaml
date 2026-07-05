@@ -25,9 +25,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6e0115_000.yaml, hash: 'sha256:dbf8476904bb79843f55b66328b128a7b1200dcd4590bbf48a12f607679faceb'}
-  - {seq: 1, filename: KR6e0115_001.yaml, hash: 'sha256:b39ef00fd7f57c8f383f2d4c398f595c311ac8cc41c89ad40961fa87e7d9c14a'}
+  - {seq: 1, filename: KR6e0115_001.yaml, hash: 'sha256:4e4dae682a9de5dcc4d007fd8fda2e94845d86e0b2cb16fe9e40809320d36524'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6e0115_001.markers.yaml, hash: 'sha256:f6a9606a06addaa66b65e6f2715c533e7066fe5c958fea326ad14dd28ec59a45'}
+  - {seq: 0, role: markers, filename: assets/KR6e0115_000.markers.yaml, hash: 'sha256:da4e1ba922d017e663e6bb37eda086934dab869330916c0afac1132e06f30424'}
+  - {seq: 1, role: markers, filename: assets/KR6e0115_001.markers.yaml, hash: 'sha256:e4b309032ea0978ff99e6a7edab210b0e539fa122070b451d79cf7cb542687de'}
 table_of_contents:
 - ref:
     seq: 1
@@ -39,7 +40,4 @@ table_of_contents:
   label: 佛國禪師文殊指南圖讚
   type: juan
   level: 1
-hash: sha256:2a733a7b012258daac773b62eb91624cbe1addeb3ac6c67bbc844c630267a572
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:374b2ee66e03807cb837908e9ec254d4934a2692bfbba71ebedc18ac95453bd8
